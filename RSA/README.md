@@ -25,5 +25,5 @@ Finds the **greatest common divisor (GCD)** of two numbers.
 - Decrypts the encrypted message.
 
 ## Example Output
-
+![Image](https://github.com/user-attachments/assets/a604e913-39dc-4d94-bf54-166d701ed274)
 
