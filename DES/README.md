@@ -21,5 +21,5 @@ Performs permutation on the input string based on the given table.
 Shifts the input string left by the given number of positions.
 
 ## Output Example
-
+![Image](https://github.com/user-attachments/assets/896545ee-015b-435a-b2e3-a4b499816574)
 
