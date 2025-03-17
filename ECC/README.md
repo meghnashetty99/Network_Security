@@ -31,5 +31,5 @@ Generates a **shared ECC key** and a **ciphertext public key**.
 Computes the **decryption key** using the private key.
 
 ## Example Output
-
+![Image](https://github.com/user-attachments/assets/f49d36d9-ccf5-409f-a96a-045a2cfa7e6c)
 
