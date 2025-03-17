@@ -15,7 +15,7 @@ This program implements the **Diffie-Hellman Key Exchange** algorithm, which is 
 - Both parties end up with the same shared key.
 
 ## Example Output
-
+![Image](https://github.com/user-attachments/assets/b1e21b8c-6404-4259-9281-01ce688e8265)
 
 
 
